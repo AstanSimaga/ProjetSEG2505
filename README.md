@@ -1,1 +1,1 @@
-# ProjetSEG2505
+# LaboSEG2505
